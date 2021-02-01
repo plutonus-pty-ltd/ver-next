@@ -4,7 +4,6 @@
 		<img src="https://github.com/plutonus-pty-ltd/ver-next/blob/development-0.0.1/images/splash.png" alt="logo">
 	</a>
 	<h3 align="center">ver@next</h3>
-
 	<p align="center">
 		<a href="https://github.com/plutonus-pty-ltd/ver-next/issues">
 			<img src="https://img.shields.io/github/issues/plutonus-pty-ltd/ver-next.svg?style=flat-square" alt="issues">
@@ -20,9 +19,7 @@
 			<img src="https://api.codeclimate.com/v1/badges/c2552642eb1661412368/code_coverage" alt="coverage">
 		</a>
 	</p>
-
 	<br />
-
 	<p align="center">
 		<a href="https://github.com/plutonus-pty-ltd/ver-next/issues">
 			Report a Bug

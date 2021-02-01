@@ -15,8 +15,8 @@
 		<a href="https://codeclimate.com/github/plutonus-pty-ltd/ver-next/maintainability">
 			<img src="https://api.codeclimate.com/v1/badges/c2552642eb1661412368/maintainability" alt="maintainability">
 		</a>
-		<a href="https://codeclimate.com/github/plutonus-pty-ltd/ver-next/text_coverage">
-			<img src="https://api.codeclimate.com/v1/badges/c2552642eb1661412368/code_coverage" alt="coverage">
+		<a href="https://codeclimate.com/github/plutonus-pty-ltd/ver-next/test_coverage">
+			<img src="https://api.codeclimate.com/v1/badges/c2552642eb1661412368/test_coverage" alt="coverage">
 		</a>
 	</p>
 	<br />
